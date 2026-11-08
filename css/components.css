@@ -518,7 +518,8 @@ h2 {
   max-width: 100%;
 }
 
-/* Уведомления */
+
+
 .alert {
   display: grid;
   grid-template-columns: auto minmax(0, 1fr);

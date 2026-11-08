@@ -70,5 +70,5 @@ densitySelect.addEventListener('change', () => {
 
 demoAction.addEventListener('click', () => {
   demoFeedback.textContent =
-    'Выполнено!.';
+    'Выполнено!';
 });
